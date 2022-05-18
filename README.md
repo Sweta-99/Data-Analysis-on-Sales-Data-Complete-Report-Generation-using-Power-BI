@@ -15,7 +15,7 @@
 <img src="./reports/11.png" >
 <img src="./reports/12.png" >
 <img src="./reports/13.png" >
-<img src="./reports/14.png" >
+<img src="./reports/14.jpeg" >
 <img src="./reports/15.png" >
 <img src="./reports/16.png" >
 <img src="./reports/17.png" >
